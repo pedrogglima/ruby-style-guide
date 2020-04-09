@@ -575,9 +575,6 @@ Style/BlockComments:
 Layout/BlockEndNewline:
   Enabled: true
 
-Style/CaseEquality:
-  Enabled: true
-
 Style/CharacterLiteral:
   Enabled: true
 
